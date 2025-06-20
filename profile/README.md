@@ -1,1 +1,1 @@
-Hi there 👋
+/ˈklaɪ.mɜrt/
