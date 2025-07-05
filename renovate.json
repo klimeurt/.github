@@ -5,7 +5,8 @@
   ],
   "packageRules": [
     {
-      "description": "Group all Go patch updates together",
+      "description": "Group all Go patch updates together on Sunday",
+      "schedule": ["on Sunday"],
       "matchManagers": ["gomod"],
       "matchUpdateTypes": ["patch"],
       "groupName": "Go patch updates",
